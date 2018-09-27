@@ -1,0 +1,2 @@
+# Mailing
+HTML mailing exercise
